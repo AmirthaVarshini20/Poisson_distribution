@@ -1,3 +1,6 @@
+# Name: Amirtha Varshini V
+# Register number: 212224040021
+
 # Fitting Poisson  distribution
 # Aim : 
 
@@ -30,8 +33,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 ```
-Developed by: Amirtha Varshini V
-Register number: 212224040021
+
 import numpy as np 
 import math 
 import scipy.stats 
